@@ -1,0 +1,3 @@
+## about visual studio error
+* the current .NET SDK does not support targeting .NET 6.0. either target .NET5.0 or lower, or use a version of the .NET sdK that supports .net 6.0.
+> .NET 6 is supported with Visual Studio 2022 and Visual Studio 2022 for Mac. It is not supported with Visual Studio 2019, Visual Studio for Mac 8, or MSBuild 16. If you want to use .NET 6, you will need to upgrade to Visual Studio 2022 (which is also now 64-bit).
